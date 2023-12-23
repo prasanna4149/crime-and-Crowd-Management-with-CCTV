@@ -29,10 +29,13 @@ Modules
 •	Implementation:
 •	Find the facial recognition logic in facial_recognition.py.
 •	Customize the .xml file for facial recognition.
+
+
 APIs Used
 •	Twilio:
 •	Twilio is integrated for sending messages on WhatsApp.
 •	Add your Twilio API key and phone number after verification.
+
 Usage
 •	Configuration:
 •	Add MongoDB details, Twilio API key, and number after verifying with Twilio.
