@@ -1,6 +1,5 @@
 Project Title: Crime and Crowd Management with CCTV
 
-Overview
 Welcome to the Crime and Crowd Management with CCTV project! This project is designed to address the challenges of monitoring public spaces for crowd control and crime prevention using CCTV footage. The system consists of three main modules: Crowd Management, Crime Detection, and Facial Recognition for Criminals.
 
 Modules
