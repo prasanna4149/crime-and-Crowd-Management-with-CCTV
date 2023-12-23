@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crime Images</title>
+</head>
+<body>
+    <h1>Crime Images</h1>
+    {% if image %}
+        <h2>{{ image.label }}</h2>
+        <img src="data:image/png;base64,{{ image.image }}" alt="{{ image.label }}">
+    {% else %}
+        <p>No images available</p>
+    {% endif %}
+</body>
+</html>
