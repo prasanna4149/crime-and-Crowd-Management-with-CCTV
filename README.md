@@ -3,6 +3,7 @@
 ## Overview
 
 Welcome to the **Crime and Crowd Management with CCTV** project! This system is designed to monitor public spaces for crowd control and crime prevention using CCTV footage. The project consists of three main modules: **Crowd Management**, **Crime Detection**, and **Facial Recognition for Criminals**. The system leverages machine learning, OpenCV, and facial recognition technologies for real-time surveillance and alerts.
+It was a part of Smart India Hackathon Group Project
 
 ## Modules
 
